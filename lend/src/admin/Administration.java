@@ -12,4 +12,6 @@ private static final Logger LOGGER = Logger.getLogger(Administration.class.getNa
 private DataManager dataManager;
 private DAOFactory daoFactory;
 private LendingManager lendingManager;
+
+
 }
